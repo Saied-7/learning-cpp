@@ -252,7 +252,7 @@ This repository represents my progress from **beginner-level C++ programming tow
 | 07 | Pointers               | ✅ Completed |
 | 08 | One-Dimensional Array  | ✅ Completed |
 | 09 | Two-Dimensional Array  | ✅ Completed |
-
+| 10 | Strings                |    progress  | 
 ---
 
 ## 🔨 What I Am Practicing
